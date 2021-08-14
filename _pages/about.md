@@ -12,7 +12,7 @@ I am Jia-Yang Gao, a Research assistant at Foxconn Quantum Computing Center advi
 
 ## Research Interest:
 
-I work on the quantum machine learning and quantum simulation.
+I work on quantum machine learning and quantum simulation.
 Some problems I think about:
 * How to use today's quantum computer to do a machine learning task?
 
